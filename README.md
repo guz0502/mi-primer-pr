@@ -1,12 +1,12 @@
 # mi-primer-pr
 
-Repositorio de practica para aprender el flujo de trabajo de un Pull Request en GitHub.
+Repositorio de práctica para aprender el flujo de trabajo de un Pull Request en GitHub.
 
-## Que es este proyecto
+## Qué es este proyecto
 
-Este repo sirve como espacio de prueba para practicar comandos de Git y el proceso de contribucion mediante Pull Requests.
+Este repo sirve como espacio de prueba para practicar comandos de Git y el proceso de contribución mediante Pull Requests.
 
-## Como contribuir
+## Cómo contribuir
 
 1. Crea una rama nueva.
 2. Haz tus cambios.
